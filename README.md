@@ -2,18 +2,18 @@
 
 ## Project Overview
 
-The following additions to the PlanMyTrip App were developed for beta testing to improve on the available features
+The following additions were developed for beta testing in the PlanMyTrip App to improve on the available features.
 
-a) An interactive ***Customer Travel Destinations Map*** that displays a list of potential travel destinations based on user input for weather criteria.  
+a) A ***Customer Travel Destinations Map*** that displays a list of potential vacation lacations based on the user's input for desired weather.  
 
-b) ***Create a Travel Itinerary Map** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well as detailed destination markers 
+b) A ***Travel Itinerary Map*** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well detailed destination info markers. 
 
-Both maps will be equipped with destinations markers that provide the user the following information:
+Both maps are equipped with detailed location markers that provide the user the following information:
 
 - Hotel name
 - City
 - Country
-- Current weather description with the maximum temperature
+- Current weather description with the maximum temperature (F°)
 
 
 ## Resources 
@@ -23,9 +23,9 @@ Both maps will be equipped with destinations markers that provide the user the f
    1. Data Analysis: [Vacation_Search](Vacation_Search/Vacation_Search.ipynb), [Vacation_Itinerary](Vacation_Itinerary/Vacation_Itinerary.ipynb)
    2. Raw data: [WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv)
 
-## Results
+## Preview
 
-1. Customer Travel Destinations Map:
+#### 1. Customer Travel Destinations Map:
 
 After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
 
@@ -34,7 +34,7 @@ After inputting the desired weather preferences, a customized travel destination
 </p>
 
 
-2. Vacation Itinerary
+#### 2. Vacation Itinerary
 
 Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. 
 
