@@ -30,7 +30,7 @@ Both maps will be equipped with destinations markers that provide the user the f
 After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
 
 <p align="center">
-  <img src="Vacation_Itinerary/WeatherPy_travel_map.PNG" width="900"/>
+  <img src="" width="900"/>
 </p>
 
 
@@ -39,7 +39,7 @@ After inputting the desired weather preferences, a customized travel destination
 Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. 
 
 <p align="center">
-  <img src="Vacation_Itinerary/WeatherPy_travel_map.png" width="900"/>
+  <img src="Vacation_Itinerary/WeatherPy_travel_map.PNG" width="900"/>
 </p>
 
 
