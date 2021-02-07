@@ -37,13 +37,14 @@ Both maps are equipped with detailed destination markers that provide the user w
 
 - Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. See Example a).
 
-a)  The user has decided to take a road trip along the east coast of Brazil. They will begin and end their journey at *Caravelas* while makings stops at *Vila Velha, Sao Joao Da Barra, and Santa Isabel* along the way. 
+   a)  The user has decided to take a road trip along the east coast of Brazil. They will begin and end their journey at *Caravelas* while makings stops at *Vila Velha, Sao Joao Da Barra, and Santa Isabel* along the way. 
 
 <p align="center">
   <kbd><img src="Vacation_Itinerary/WeatherPy_travel_map.PNG" width="900"/><kbd>
 </p>
 
-b)
+   b)
+   
 <p align="center">
   <kbd><img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="700"/><kbd>
 </p>
