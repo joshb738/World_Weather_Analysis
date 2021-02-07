@@ -4,9 +4,9 @@
 
 The following additions were developed for beta testing in the PlanMyTrip App to improve on its available features.
 
-1. A ***Customer Travel Destinations Map*** that displays a list of potential vacation locations based on the user's input for desired weather.  
+**1.** A ***Customer Travel Destinations Map*** that displays a list of potential vacation locations based on the user's input for desired weather.  
 
-2. A ***Travel Itinerary Map*** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view **a)** the travel route between the four cities and **b)** the detailed location info markers. 
+**2.** A ***Travel Itinerary Map*** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view **a)** the travel route between the four cities and **b)** the detailed location info markers. 
 
 Both maps are equipped with detailed destination markers that provide the user with the following information:
 
