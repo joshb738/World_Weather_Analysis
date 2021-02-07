@@ -6,9 +6,9 @@ The following additions were developed for beta testing in the PlanMyTrip App to
 
 a) A ***Customer Travel Destinations Map*** that displays a list of potential vacation lacations based on the user's input for desired weather.  
 
-b) A ***Travel Itinerary Map*** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well detailed destination info markers. 
+b) A ***Travel Itinerary Map*** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well the detailed location info markers. 
 
-Both maps are equipped with detailed location markers that provide the user the following information:
+Both maps are equipped with detailed destination markers that provide the user with the following information:
 
 - Hotel name
 - City
@@ -27,7 +27,7 @@ Both maps are equipped with detailed location markers that provide the user the 
 
 #### 1. Customer Travel Destinations Map:
 
-After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
+- After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
 
 
 <p align="center">
@@ -37,7 +37,7 @@ After inputting the desired weather preferences, a customized travel destination
 
 #### 2. Vacation Itinerary
 
-Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. 
+- Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. 
 
 <p align="center">
   <kbd><img src="Vacation_Itinerary/WeatherPy_travel_map.PNG" width="900"/><kbd>
