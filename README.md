@@ -33,7 +33,7 @@ Both maps are equipped with detailed destination markers that provide the user w
   <kbd><img src="Vacation_Search/WeatherPy_vacation_map.png" width="900"/><kbd>
 </p>
 
-#### 2. [Vacation Itinerary](Vacation_Itinerary/travel_df.png)
+#### 2. [Vacation Itinerary](Vacation_Itinerary/travel_df.PNG)
 
 - Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. See Example a).
 
