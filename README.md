@@ -44,5 +44,5 @@ Based on the filtered weather criteria the user will be able to choose a startin
 
 
 <p align="center">
-  <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" height="600"/>
+  <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600"/>
 </p>
