@@ -29,10 +29,11 @@ Both maps are equipped with detailed location markers that provide the user the 
 
 After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
 
+<kbd>
 <p align="center">
   <img src="Vacation_Search/WeatherPy_vacation_map.png" width="900"/>
 </p>
-
+<kbd>
 
 #### 2. Vacation Itinerary
 
