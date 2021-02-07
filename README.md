@@ -6,9 +6,9 @@ The following additions to the PlanMyTrip App were developed for beta testing to
 
 a) An interactive ***Customer Travel Destinations Map*** that displays a list of potential travel destinations based on user input for weather criteria.  
 
-b) ***Create a Travel Itinerary Map** based on four cities of the users choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well as detailed destination markers 
+b) ***Create a Travel Itinerary Map** based on four cities of the user's choice. With the use of Google Maps Directions API, the user will be able to view the travel route between the four cities as well as detailed destination markers 
 
-Both maps will be equipped with destinations markers that provide the user the follwing information:
+Both maps will be equipped with destinations markers that provide the user the following information:
 
 - Hotel name
 - City
@@ -27,7 +27,7 @@ Both maps will be equipped with destinations markers that provide the user the f
 
 1. Customer Travel Destinations Map:
 
-After inputing the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the users criteria. See example below.
+After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels withing the user's criteria. See example below.
 
 <p align="center">
   <img src="Vacation_Itinerary/WeatherPy_travel_map.PNG" width="900"/>
@@ -39,10 +39,10 @@ After inputing the desired weather preferences, a customized travel destinations
 Based on the filtered weather criteria the user will be able to choose a starting/end point, and three additional destination stops to be added to a new travel map. 
 
 <p align="center">
-  <img src="WeatherPy_travel_map/.png" width="900"/>
+  <img src="Vacation_Itinerary/WeatherPy_travel_map.png" width="900"/>
 </p>
 
 
 <p align="center">
-  <img src="WeatherPy_travel_map_markers/.png" width="900"/>
+  <img src="Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="900"/>
 </p>
