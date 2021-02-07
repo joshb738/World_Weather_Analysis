@@ -20,7 +20,7 @@ Both maps will be equipped with destinations markers that provide the user the f
 
 - Software: Anaconda 4.9.2, Jupyter Notebook 6.1.4, Python 3.8.5
 - Data Sources: 
-   1. Data Analysis: [Vacation_Search](Vacation_Search.ipynb), [Vacation_Itinerar](Vacation_Vacation_Itinerary.ipynb)
+   1. Data Analysis: [Vacation_Search](Vacation_Search/Vacation_Search.ipynb), [Vacation_Itinerary](Vacation_Itinerary/Vacation_Itinerary.ipynb)
    2. Raw data: [WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv)
 
 ## Results
