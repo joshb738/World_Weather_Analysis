@@ -53,7 +53,9 @@ Both maps are equipped with detailed destination markers that provide the user w
 With minor alterations to the code, the following options can also be made available to the user:
 
 a) Expanding the Latitude & Longitude search criteria to provide additional travel destinations to the user.
+
 b) The options for "BICYCLING", or "WALKING" can also be made available to the user on the direction layer map by altering the travel_mode output.
-c) Modifying the "Info Box template" to provide the user with with additional details in the marker pop up, eg. Humidity, Cloudiness, Wind Speed.
+
+c) Modifying the "Info Box template" to provide the user with with additional details in the marker pop up, e.g. Humidity, Cloudiness, Wind Speed.
 
 
