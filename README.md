@@ -24,7 +24,7 @@ Both maps are equipped with detailed destination markers that provide the user w
 
 ## Preview
 
-#### 1. Customer Travel Destinations Map:
+#### 1. Customer Travel Destinations Map
 
 - After inputting the desired weather preferences, a customized travel destinations map will be generated with potential vacation destinations and nearby hotels within the user's criteria.
 
